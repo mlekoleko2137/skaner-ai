@@ -1,0 +1,2 @@
+# skaner-ai
+Skaner-ejaj
